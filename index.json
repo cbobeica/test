@@ -1,0 +1,53 @@
+{  
+    
+    "categories":[
+        {
+            "name":       "28 Summers",   
+            "id":       "1",
+            "photo":      "https://images-na.ssl-images-amazon.com/images/I/41LRxqlhKRL._AC_SX184_.jpg",   
+            "description":    "28 Summers: This sweeping love story is Hilderbrand's best ever"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "book"
+        },  
+        {
+            "name":       "The Summer House",   
+            "id":       "2",
+            "photo":      "https://m.media-amazon.com/images/I/512XrVu4HoL.jpg",   
+            "description":    "The Summer House: If they don’t solve the case, they’ll take the fall…"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "recipe"
+        }, 
+        {
+            "name":       "28 Summers",   
+            "id":       "1",
+            "photo":      "https://images-na.ssl-images-amazon.com/images/I/41LRxqlhKRL._AC_SX184_.jpg",   
+            "description":    "28 Summers: This sweeping love story is Hilderbrand's best ever"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "book"
+        },  
+        {
+            "name":       "The Summer House",   
+            "id":       "2",
+            "photo":      "https://m.media-amazon.com/images/I/512XrVu4HoL.jpg",   
+            "description":    "The Summer House: If they don’t solve the case, they’ll take the fall…"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "recipe"
+        }, 
+        {
+            "name":       "28 Summers",   
+            "id":       "1",
+            "photo":      "https://images-na.ssl-images-amazon.com/images/I/41LRxqlhKRL._AC_SX184_.jpg",   
+            "description":    "28 Summers: This sweeping love story is Hilderbrand's best ever"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "book"
+        },  
+        {
+            "name":       "The Summer House",   
+            "id":       "2",
+            "photo":      "https://m.media-amazon.com/images/I/512XrVu4HoL.jpg",   
+            "description":    "The Summer House: If they don’t solve the case, they’ll take the fall…"  
+            "markdown:"   "mdfileurl.md"
+            "category:"   "recipe"
+        } 
+    ]
+}  
