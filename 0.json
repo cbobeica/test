@@ -1,0 +1,22 @@
+{  
+    "name":       "root categ ",   
+    "id":       "0",
+    "photo":      "https://images-na.ssl-images-amazon.com/images/G/01/kindle/apub/summerreading/editors_pick_1_750x375.jpg",   
+    "description":    "Elin Hilderbrand, one of the reigning queens of the beach read, has done it again in this tale of an affair that takes place over 28 summers. Mallory Blessing meets her brother’s fraternity brother, Jake McCloud, over Labor Day Weekend 1993. The two immediately fall in lust, and inspired by the movie Same Time Next Year, decide that every Labor Day they will meet and reenact this perfect weekend of innocent love. And they succeed, for 28 summers, despite the twists their lives take. Mallory stays in the beach cottage on Nantucket she inherited from a beloved aunt, and becomes a talented English teacher at the high school. Jake marries his high school sweetheart, an exacting and cold lawyer who eventually runs for President. Hilderbrand doesn’t just focus on the three days each year Jake and Mallory spend together, so the set-up never gets stale, and you’ll find yourself rooting for this star-crossed adulterous couple. Nantucket isn’t as much of a character in the novel as in Hilderbrand’s other works, but she weaves in some recurring characters, restaurants, and locations to satisfy her devoted readers. 28 Summers is a total page-turner, and a perfect “beach read,” whatever that means in the Summer of 2020. —Sarah Gelman Amazon Book Review"  
+    "markdown:"   "mdfileurl.md"
+    
+    "categories":[
+        {
+            "name":       "28 Summers",   
+            "id":       "1",
+            "photo":      "https://images-na.ssl-images-amazon.com/images/I/41LRxqlhKRL._AC_SX184_.jpg",   
+            "description":    "28 Summers: This sweeping love story is Hilderbrand's best ever"  
+        },  
+        {
+            "name":       "The Summer House",   
+            "id":       "2",
+            "photo":      "https://m.media-amazon.com/images/I/512XrVu4HoL.jpg",   
+            "description":    "The Summer House: If they don’t solve the case, they’ll take the fall…"  
+        } 
+    ]
+}  
